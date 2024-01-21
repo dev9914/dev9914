@@ -1,9 +1,9 @@
 <h1 align="left" >Hi there, I'm Devanand</h1>
-<h3 align="left" >
+<h5 align="left" >
       • I'm a self-learnt/made front-end developer.<br>
       • You can reach me on <a href="https://www.instagram.com/dev.cmd/">Instagram</a>.<br>
       • I'm from Rewari(Haryana) .
-</h3>
+</h5>
 
 
 <h3 align="left">Skills:</h3>
