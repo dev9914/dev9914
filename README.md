@@ -12,8 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  • <a href="https://linkedin.com/in/devanand" >Linkedin</a>
-  • <a href="https://instagram.com/dev.cmd" >Instagram</a>
+  • <a href="https://linkedin.com/in/devanand" >Linkedin</a><br>
+  • <a href="https://instagram.com/dev.cmd" >Instagram</a><br>
   • <a href="https://https://discord.com/channels/@me" >Discord</a>
 </p>
 
