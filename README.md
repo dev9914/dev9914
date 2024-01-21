@@ -1,5 +1,5 @@
 <h1 align="left" >Hi there, I'm Devanand</h1>
-<h4 align="left" >
+<h4 align="left" style="font-weight: lighter;">
       • I'm a self-learnt/made front-end developer.<br>
       • You can reach me on <a href="https://www.instagram.com/dev.cmd/">Instagram</a>.<br>
       • I'm from Rewari(Haryana) .
