@@ -1,21 +1,78 @@
-<h1 align="left" >Hi there, I'm Devanand</h1>
-<h4 align="left" style="font-weight: lighter; font-size=30px;">
-      • I'm a self-learnt/made full-stack developer.
-      <br>  
-      • You can reach me on <a href="https://www.instagram.com/dev.cmd/">Instagram</a>.
-      <br>
-      • I'm from Rewari(Haryana) .
-</h4>
+Hi, I'm Devanand! 🚀
+
+💻 Full-Stack Developer | DevOps Enthusiast 
+
+I specialize in Next.js, MERN Stack, and Cloud Computing with expertise in AWS, Docker, and Kubernetes. Passionate about building scalable web applications and optimizing deployment pipelines. Always learning and staying ahead in system design, CI/CD, and cloud technologies to ensure my skills remain AI-proof.
+
+🔥 What I Do
+
+Web Development: MERN Stack, Next.js, TypeScript, Tailwind CSS
+
+Backend Development: Node.js, Express.js, MongoDB, REST APIs, WebSockets
+
+Cloud & DevOps: AWS (EKS, Load Balancers, Auto Scaling), Docker, Kubernetes, GitHub Actions, CI/CD
+
+System Design: Scalable architectures, caching, and microservices
+
+🚀 Notable Projects
+
+🟢 Instagram Clone (Full-Stack)
+
+Tech Stack: MERN, TypeScript, Docker, Kubernetes, AWS EKS
+
+Features: Authentication, Posts, Comments, Likes, Notifications, Friend Requests
+
+Deployment: Containerized and deployed on AWS EKS with CI/CD
+
+🔗 GitHub Repo | 🔗 LinkedIn Post
+
+⚡ AWS EKS Deployment with CI/CD
+
+Pipeline: Automated deployment using GitHub Actions
+
+Technologies: Kubernetes, AWS Load Balancer, Auto Scaling
+
+🔗 GitHub Repo
+
+📊 Beanstalk Application
+
+Built and deployed an application using AWS Elastic Beanstalk
+
+🛠️ Tech Stack
+
+Frontend
 
 
-<h3 align="left">Skills:</h3>
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">  </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  • <a href="https://linkedin.com/in/devanand" >Linkedin</a><br>
-  • <a href="https://instagram.com/dev.cmd" >Instagram</a><br>
-  • <a href="https://https://discord.com/channels/@me" >Discord</a>
-</p>
+
+
+Backend
+
+
+
+
+
+DevOps & Cloud
+
+
+
+
+
+
+🎯 Goals & Vision
+
+Landing a 10 LPA+ job as a full-stack developer with DevOps expertise
+
+Mastering system design and scaling high-traffic applications
+
+Building AI-powered features for real-world applications
+
+Growing my YouTube channel with engaging anime/manga content
+
+📫 Let's Connect
+
+🔗 GitHub: [github.com/your-profile](https://github.com/dev9914)🔗 LinkedIn: www.linkedin.com/in/devanand-kumar-09b451294🔗
+
+💡 Always open to opportunities, collaborations, and discussions about tech & anime!
 
